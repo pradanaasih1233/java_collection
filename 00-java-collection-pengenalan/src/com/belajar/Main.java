@@ -15,7 +15,7 @@
 *|
 *| - Interfaces ini memiliki representasi dari collection.
 *| - Implementarions, bisa menggunakan implementasi yang sudah
-*|   dibat oleh java, semua interface collection sudah ada
+*|   dibuat oleh java, semua interface collection sudah ada
 *|   implementasi classnya di java collection.
 *| - Algorithms, java juga sudah menyediakan algoritma yang umum
 *|   digunakan di collection, seperti pencarian dan pengurutan.
